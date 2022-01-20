@@ -1,0 +1,15 @@
+type: code
+files:
+- name: src/Main.java
+  visible: true
+  text: // write your class here
+  learner_created: false
+- name: src/JumpSearch.java
+  visible: true
+  learner_created: true
+feedback_link: https://hyperskill.org/learn/step/2985#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: Mon, 10 Jan 2022 08:49:23 UTC
+record: -1
